@@ -1,0 +1,65 @@
+
+ 
+ header {
+  background-color: rgb(196, 196, 34);
+  padding: 10px;
+  text-align: center;
+  font-size: 4px;
+  color: white;
+}
+  h1 {
+   font-size: 16pt;
+   text-align: center;
+
+}
+
+  label {
+    font-size: 10pt;
+    width: 120px;
+    display: inline-block;
+    text-align: left;
+    margin-right: 8px;
+}
+       
+ input[type=text], input[type=password] {
+    width: 25%;
+    border: 1px solid #aaa;
+    padding: px;
+    margin: 8px 0px 10px;
+    cursor: pointer lightblue;
+}
+  input[type=submit] {
+    background-color: lightblue;
+    width: 80px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid lightblue;
+    background-color: lightcyan;
+  }
+  
+  .nav li {
+    background-color: none; 
+    display: inline-flex;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+    margin-right: 50px;
+  }     
+  img {
+    margin: 5;
+    display: inline-flex;
+    border: none;
+    padding: 30px;
+  }  
+
+  h2 {
+    border: 2px outset rgb(26, 23, 27);
+    background-color: green;    
+    text-align: center;
+  }
+
+ 
+      
+        
+
+    
